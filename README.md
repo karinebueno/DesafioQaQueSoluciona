@@ -1,6 +1,6 @@
 # Desafios de Algoritmos em Python para QAs
 
-Este repositório contém minhas soluções para os desafios propostos no [Desafio QA Que Soluciona] (https://github.com/paulocoliveira/desafio-qa-que-soluciona), organizado por [Paulo Oliveira] (https://www.linkedin.com/in/pcesar/)[da Expert QA Academy]
+Este repositório contém minhas soluções para os desafios propostos no [Desafio QA Que Soluciona](https://github.com/paulocoliveira/desafio-qa-que-soluciona), organizado por [Paulo Oliveira](https://www.linkedin.com/in/pcesar/)da Expert QA Academy
 
 ## Sobre o Desafio
 
