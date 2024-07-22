@@ -1,5 +1,5 @@
-h = 5
-m = 47
+h = 1
+m = 0
 
 Obter_hora = {
     1: "one",
@@ -48,6 +48,10 @@ else:
         h = h + 1
         nova_hora = Obter_hora.get(h)
         print("quarter" + " " + "to" + " " + nova_hora)
+    elif h == 12:
+        m = 60 - m
+        minutes_text = numeros_dict.get(m)
+        print(minutes_text + " " + "minutes" + " " + "to" + " " + "one")
     else:
         m = 60 - m
         h = h + 1
